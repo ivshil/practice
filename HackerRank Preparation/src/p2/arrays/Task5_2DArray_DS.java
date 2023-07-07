@@ -1,4 +1,4 @@
-package p2_arrays;
+package p2.arrays;
 
 import java.io.*;
 import java.util.*;

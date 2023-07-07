@@ -1,4 +1,4 @@
-package p3_sorting;
+package p3.sorting;
 
 import java.io.*;
 import java.util.*;

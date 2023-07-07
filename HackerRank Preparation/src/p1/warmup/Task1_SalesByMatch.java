@@ -1,4 +1,4 @@
-package p1_warmup;
+package p1.warmup;
 
 import java.io.*;
 import java.util.LinkedList;
